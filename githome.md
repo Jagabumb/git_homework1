@@ -9,7 +9,7 @@
 ![Картинка](https://www.opentv.tv/wp-content/uploads/2021/03/shutterstock_701884420-1024x604.jpg)
 
 ---
->### <span style="color:lightblue">О себе</span>
+>### О себе
 
 <span style="color:darkseagreen">Меня зовут Вадим, мне 33 года. Учиться на Налоговика (налоги и нологообложение) я закончил в 2008 году. Паралелльно изучаю анлийский язык с преподавателем на другой платформе. </span>
 
@@ -18,7 +18,7 @@
 ```
 
 ---
->### <span style="color:lightblue">Где работаю</span>
+>### Где работаю
 
 <span style="color:darkseagreen">Работал я много где. После окончания учебы работал [снабженцем и экспедитором](https://unilog.ru/upload/iblock/e37/e37b800689f57eb68743e66b03c6bae1.jpg) в нескольких организациях. Затем работал на стройке [монтажником и отделочником](https://1c-reklama.ru/upload/iblock/aed/aeded97eeca6a8251ae2ee0cd8ac525f.jpeg). В промежутках были попытки поработать в области [мобильных телефонов](https://cache3.youla.io/files/images/720_720_out/5c/78/5c78ca4fd67750a3c0202d08.jpg). Затем пришлось пойти на завод и стать [токарем](https://www.profguide.io/images/article/a/8/CB9EYwGWVD.jpg). Кем я собственно и являюсь по сей день.</span>
 
@@ -27,12 +27,12 @@
 ```
 
 ---
->### <span style="color:lightblue">Почему решил пойти учиться</span>
+>### Почему решил пойти учиться
 <span style="color:darkseagreen">Тяга к программированию была и есть со школы. Но желания и возможности разошлись на долгое время. Поэтому только в 33 года, после развода, решился наконец сделать то, чего хочется на самом деле :)</span>
 
 ```
 Не знаю, что тут написать можно. Просто добавлю, что бы была симметрия
 ```
 
-![Картинка](https://cojo.ru/wp-content/uploads/2022/12/spasibo-za-vnimanie-128.webp)
+![Картинка](https://pbs.twimg.com/media/E6-iBrOXsAU8_IK.jpg)
 
